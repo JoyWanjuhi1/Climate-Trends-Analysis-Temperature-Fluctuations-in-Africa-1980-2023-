@@ -7,4 +7,4 @@ Regional Variances: Clear baseline temperature gaps demonstrating Cameroon’s t
 Shifting Distributions: Analysis of Senegal's historical weather data shows a flattening distribution curve, with a significant increase in the frequency of higher temperature days (86°F–95°F) in the last two decades (2000–2023) compared to the 1980–2000 baseline.
 
 Global Warming Trajectory: A shared, parallel upward trajectory across the analyzed nations, visualizing steady climate shifts over time.
-
+* **Interactive Dashboard:** [View the Live Tableau Dashboard](https://public.tableau.com/views/DataVisualizationWithTableauSoftware_17797408709730/GlobalEarthquakeAnalysis20012023Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
